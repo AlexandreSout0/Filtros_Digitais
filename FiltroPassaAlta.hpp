@@ -12,7 +12,7 @@
   FILTROS DIGITAIS
 
    Filtro Passa - Alta IIR de Primeira Ordem.
-	FiltroPassaAlta.hpp
+   FiltroPassaAlta.hpp 
 
    ARDUINO
    Board: Arduino Uno.
@@ -23,7 +23,7 @@
 
 
 
-				   #########################
+				   ###########################
 				##  |                       | ##
 			 ## 	|						|	##
 		  ##		|						|	  ##
